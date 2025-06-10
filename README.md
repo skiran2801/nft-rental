@@ -119,12 +119,8 @@ REPORT_GAS=true npx hardhat test
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [Advik](https://x.com/saikira86814070)
 
 Project Link: [https://github.com/skiran2801/nft-rental](https://github.com/skiran2801/nft-rental) 
