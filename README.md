@@ -12,9 +12,9 @@ A decentralized application (dApp) that enables secure NFT rentals on the blockc
 
 ## Project Screenshots
 
-![NFT Rental Platform](assets/images/screenshot1.png)
-![NFT Rental Platform](assets/images/screenshot2.png)
-![NFT Rental Platform](assets/images/screenshot3.png)
+![NFT Rental Platform](assets/images/Screenshot%202025-04-21%20at%201.27.14%20AM.png)
+![NFT Rental Platform](assets/images/Screenshot%202025-04-21%20at%201.23.03%20AM.png)
+![NFT Rental Platform](assets/images/Screenshot%202025-04-21%20at%201.12.23%20AM.png)
 
 ## Tech Stack
 
