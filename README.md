@@ -12,9 +12,9 @@ A decentralized application (dApp) that enables secure NFT rentals on the blockc
 
 ## Project Screenshots
 
-![NFT Rental Platform](https://raw.githubusercontent.com/skiran2801/nft-rental/main/assets/images/Screenshot%202025-04-21%20at%201.27.14%20AM.png)
-![NFT Rental Platform](https://raw.githubusercontent.com/skiran2801/nft-rental/main/assets/images/Screenshot%202025-04-21%20at%201.23.03%20AM.png)
-![NFT Rental Platform](https://raw.githubusercontent.com/skiran2801/nft-rental/main/assets/images/Screenshot%202025-04-21%20at%201.12.23%20AM.png)
+![NFT Rental Platform](https://raw.githubusercontent.com/skiran2801/nft-rental/main/assets/images/Screenshot1.png)
+![NFT Rental Platform](https://raw.githubusercontent.com/skiran2801/nft-rental/main/assets/images/Screenshot3.png)
+![NFT Rental Platform](https://raw.githubusercontent.com/skiran2801/nft-rental/main/assets/images/Screenshot4.png)
 
 ## Tech Stack
 
