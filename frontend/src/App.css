@@ -1,0 +1,55 @@
+/* App.css */
+
+/* Layout */
+.app-container {
+  @apply max-w-6xl mx-auto p-6;
+ }
+ 
+ /* Main content area */
+ .main-content {
+  @apply bg-white rounded-xl p-8 shadow-xl;
+ }
+ 
+ /* Error alert */
+ .error-alert {
+  @apply bg-red-50 text-red-600 p-4 rounded-lg mb-4;
+ }
+ 
+ /* Loading state */
+ .loading-spinner {
+  @apply flex justify-center items-center py-12;
+ }
+ 
+ .loading-spinner div {
+  @apply animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500;
+ }
+ 
+ /* Animations */
+ .fade-enter {
+  opacity: 0;
+ }
+ 
+ .fade-enter-active {
+  opacity: 1;
+  transition: opacity 200ms ease-in;
+ }
+ 
+ .fade-exit {
+  opacity: 1;
+ }
+ 
+ .fade-exit-active {
+  opacity: 0;
+  transition: opacity 200ms ease-out;
+ }
+ 
+ /* Responsive design */
+ @media (max-width: 768px) {
+  .app-container {
+    @apply px-4;
+  }
+  
+  .main-content {
+    @apply p-4;
+  }
+ }

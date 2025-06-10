@@ -1,0 +1,15 @@
+import React from 'react';
+
+const Footer = () => {
+  return (
+    <footer className="bg-white shadow-sm mt-auto">
+      <div className="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
+        <div className="flex justify-center items-center">
+          {/* Footer content removed as requested */}
+        </div>
+      </div>
+    </footer>
+  );
+};
+
+export default Footer; 

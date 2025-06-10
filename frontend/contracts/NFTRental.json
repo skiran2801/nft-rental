@@ -1,0 +1,8 @@
+{
+    "appName": "NFT Rental Marketplace",
+    "version": "1.0.0",
+    "apiBaseUrl": "https://api.yourproject.com",
+    "contractAddress": "0x1234567890abcdef1234567890abcdef12345678",
+    "network": "Ethereum"
+  }
+  
