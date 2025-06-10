@@ -10,6 +10,12 @@ A decentralized application (dApp) that enables secure NFT rentals on the blockc
 - **User Dashboard**: Manage your listed and rented NFTs
 - **Wallet Integration**: Seamless blockchain interaction with MetaMask support
 
+## Project Screenshots
+
+![NFT Rental Platform](assets/images/screenshot1.png)
+![NFT Rental Platform](assets/images/screenshot2.png)
+![NFT Rental Platform](assets/images/screenshot3.png)
+
 ## Tech Stack
 
 - **Smart Contracts**: Solidity, Hardhat
